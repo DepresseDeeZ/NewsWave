@@ -24,8 +24,9 @@ Welcome to NewsWave, your go-to destination for the latest news and updates from
 6. **Feedback**: We'd love to hear from you! Reach out to us via the contact form provided.
 
 ## Screenshots:
-
-[Please insert screenshots here]
+<div align="center">
+  <img src="https://github.com/DepresseDeeZ/NewsWave/assets/132985504/0e73c9fc-1213-4725-9ab8-b65317925333">
+</div>
 
 ## License:
 
